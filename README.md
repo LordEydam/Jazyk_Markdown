@@ -1,5 +1,7 @@
  # Jazyk_Markdown
-repo  pre tening jazyka Markdown
+ ![mberry](https://github.com/user-attachments/assets/29c9aff3-ec7b-4507-b802-f7579405407e)
+
+Fatheeeer!
 
 # Nadpis H1 - najvyššej úrovne - hlavný nádpis
 
@@ -15,17 +17,16 @@ Heading level 2
 
 Lorem impsum bla bla bla 
 
-sfdfs sa fa
+I just love **bold** text ctrl + B
 
-
-I just love **bold** text
+_italic_ ctrl + i
 
 
 > toto je bloq
 > ten hore musí mať 2 medzery aby bol tento na novom riadku
 
 
-Nakupný zoznam:(necislovanz zoznam)
+Nakupný zoznam:(necislovany zoznam)
 - prva polozka
 - druha polozka
 - tretia
@@ -51,6 +52,8 @@ uistite sa ze mate:
 - Python 3.8
 - nastroj pip
 
+  ![image](https://github.com/user-attachments/assets/28eaabac-0acd-4d78-8acd-842a8364f953)
 
-# Licencia:
-[Nejaky link] Tuto bude nejaky link
+
+
+ [nejaky ten odkaz](https://docs.python.org/3/library/stdtypes.html#str.count)
