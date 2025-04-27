@@ -36,3 +36,21 @@ cislovany zoznam:
 3. fsfsd
 4. sdf
 5. sd
+
+# Nazov projektu
+
+## Instalacia
+
+1. naklonujte repozitar\
+   ```bash
+   git clone https://github.com/uzivatel/kalkulacka.git
+   ```
+
+# Poziadavaka
+uistite sa ze mate:
+- Python 3.8
+- nastroj pip
+
+
+# Licencia:
+[Nejaky link] Tuto bude nejaky link
